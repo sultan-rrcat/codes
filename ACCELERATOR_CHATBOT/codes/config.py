@@ -1,0 +1,6 @@
+MODEL_PATH = r'C:\Users\offic\Documents\CODES\ACCELERATOR_CHATBOT\models\gemma-3-4b-it-q4_0.gguf'
+# MODEL_PATH = r'C:\Users\offic\Documents\CODES\ACCELERATOR_CHATBOT\models\DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf'
+CONNECTION_STRING = 'mssql+pyodbc://localhost\\SQLEXPRESS/ACCELERATOR_DB?driver=ODBC+Driver+17+for+SQL+Server'
+EMBEDDING_MODEL = r'C:\Users\offic\Documents\CODES\ACCELERATOR_CHATBOT\models\all-MiniLM-L6-v2'
+CHROMA_PERSIST_DIRECTORY = r'C:\Users\offic\Documents\CODES\ACCELERATOR_CHATBOT\data\chroma_db'
+DATABASE_SCHEMA_FILE = r'C:\Users\offic\Documents\CODES\ACCELERATOR_CHATBOT\data\database_schema.json'
